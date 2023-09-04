@@ -1,4 +1,5 @@
-![lms1](https://github.com/zainiktheme/lmszai-flutter-app/assets/61178414/7c50cd4a-73b8-4558-9724-7bca5e8d6a8e)
-![lms2](https://github.com/zainiktheme/lmszai-flutter-app/assets/61178414/0a7d9dbc-e629-4238-90fa-5d9715b0ce05)
-![lms3](https://github.com/zainiktheme/lmszai-flutter-app/assets/61178414/b9480636-3503-4a56-9c07-6abbb1880f45)
-![lms4](https://github.com/zainiktheme/lmszai-flutter-app/assets/61178414/2d842b2e-4d26-4ea4-9112-fbc31eb788ac)
+
+![1](https://github.com/mahmudulri/lmsapp/assets/61178414/53e00907-1c61-4771-b126-fe4e941aad6a)
+![2](https://github.com/mahmudulri/lmsapp/assets/61178414/687c389f-2df0-4eb1-92a0-a9c52f6d5218)
+![3](https://github.com/mahmudulri/lmsapp/assets/61178414/d7ae28c2-c10e-45f6-a64f-82b88a67fd22)
+![4](https://github.com/mahmudulri/lmsapp/assets/61178414/d96ccd96-2636-46a0-9e2e-46731c57d2be)
